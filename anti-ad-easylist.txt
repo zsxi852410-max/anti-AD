@@ -185,6 +185,16 @@
 ||qchannel*.cn^
 ||ad-*.com^
 @@||ad-gone.com^
+||p6-ad-sign.byteimg.com^
+||p9-ad-sign.byteimg.com^
+||dig.bdurl.net^
+||i.snssdk.com^
+||i-lq.snssdk.com^
+||mcs.snssdk.com^
+||activity-ag.awemeughun.com^
+||v6-novelapp.ixigua.com^
+||sf3-ttcdn-tos.pstatp.com^
+||api.iegadp.qq.com^
 ||ad-*.net^
 ||webads.*^
 ||web-stat.*^
