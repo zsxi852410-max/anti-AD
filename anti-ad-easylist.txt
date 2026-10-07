@@ -4,6 +4,16 @@
 !!!note! If you are using "AdGuard", please load https://anti-ad.net/adguard.txt
 !!!This list only applies to "AdGuard Home".
 !Total lines: 94567
+@@||p6-ad-sign.byteimg.com^
+@@|p9-ad-sign.byteimg.com^
+@@||dig.bdurl.net^
+@@||i.snssdk.com^
+@@||i-lq.snssdk.com^
+@@|mcs.snssdk.com^
+@@|activity-ag.awemeughun.com^
+@@||v6-novelapp.ixigua.com^
+@@|sf3-ttcdn-tos.pstatp.com^
+@@|api.iegadp.qq.com^
 @@||ad.azure.com^
 @@||ad.ext.azure.com^
 @@||ads.finance^
